@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Artur",
+      "email": "aa@wp.pl",
+      "age": 32,
+      "isActive": true
+    },
+    {
+      "id": "2",
+      "name": "Maciek",
+      "email": "mm@wp.pl",
+      "age": 30,
+      "isActive": true
+    },
+    {
+      "id": "3",
+      "name": "Kinga",
+      "email": "kk@wp.pl",
+      "age": 31,
+      "isActive": true
+    },
+    {
+      "id": "4",
+      "name": "Andrzej",
+      "email": "and@wp.pl",
+      "age": 36,
+      "isActive": true
+    },
+    {
+      "id": "5",
+      "name": "Natalia",
+      "email": "nn@wp.pl",
+      "age": 29,
+      "isActive": false
+    }
+  ]
+}
